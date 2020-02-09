@@ -6,10 +6,12 @@ CartPole 문제를 [DQN](https://deepmind.com/research/publications/playing-atar
 
 숨은 버그를 해결한 코드와 이에 대한 레포트를 제출해주세요!
 
+※ 강화학습이나 PyTorch에 익숙하지 않으신 경우 [PyTorch DQN 튜토리얼](https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html) 문서를 참고하셔도 좋습니다.
+
 ### 환경설정
 
 1. `pip install -r requirements.txt` 를 실행합니다.
-2. https://pytorch.org/ 에 방문해 자신의 환경에 알맞은 파이토치를 설치합니다. 파이토치의 버전은 1.4.0 을 사용하면 됩니다.
+2. https://pytorch.org/ 에 방문해 자신의 환경에 알맞은 PyTorch를 설치합니다. PyTorch의 버전은 1.4.0 을 사용하면 됩니다.
 GPU가 없는 경우 CPU-only 버전을 설치해도 괜찮습니다.
 
 ## Tasks
