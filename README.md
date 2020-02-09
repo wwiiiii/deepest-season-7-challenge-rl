@@ -56,7 +56,7 @@ GPU가 없는 경우 CPU-only 버전을 설치해도 괜찮습니다.
 
 Load, Save, Play 기능을 구현해주세요.
 
-- Save는 주어진 경로에 현재 학습 상황을 저장하는 것을 뜻합니다. 학습 상황에는 Neural Net Weight, Optimzer state, Replay Memory 등이 포함됩니다.
+- Save는 주어진 경로에 현재 학습 상황을 저장하는 것을 뜻합니다. 학습 상황에는 Neural Net Weight, Optimizer state, Replay Memory 등이 포함됩니다.
 
 - Load는 주어진 경로에 저장되어 있는 학습 상황을 불러오는 것입니다. 불러온 시점에서부터 학습을 재개할 수 있어야 합니다.
 
