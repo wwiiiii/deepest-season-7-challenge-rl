@@ -1,5 +1,7 @@
 ## Introduction
 
+Deepest 리크루팅 문제입니다!  https://tiny.cc/DeepestSeason7Quest
+
 CartPole 문제를 [DQN](https://deepmind.com/research/publications/playing-atari-deep-reinforcement-learning)으로 해결하는 코드가 주어졌습니다.
 
 하지만 버그로 인해 정상적으로 학습이 진행되지 않는 상태입니다.
